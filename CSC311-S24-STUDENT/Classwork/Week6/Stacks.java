@@ -1,5 +1,5 @@
 package Week6;
-package common/
+import com.usman.csc311.lists.Stack;
 
 public class Stacks {
 
