@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Assignment1"/>
 	<classpathentry kind="src" path="Assignment2"/>
 	<classpathentry kind="src" path="Classwork"/>
+	<classpathentry kind="src" path="common"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
